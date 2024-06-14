@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
 
-
+<center>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avishkajspshehan&show_icons=true&theme=radical&locale=en" alt="avishkajspshehan" /></p>
-
+</center>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishkajspshehan&show_icons=true&theme=radical&locale=en&layout=compact" alt="avishkajspshehan" /></p>
 <br/><br/><br/><br/><br/><br/><br/>
