@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 Avishka Shehan Jayasiri</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h1 align="center">Avishka Shehan Jayasiri</h1>
+<h3 align="center">A passionate Software developer From Sri Lanka</h3>
 
 
 <center>
