@@ -1,5 +1,5 @@
 <h1 align="center">Avishka Shehan Jayasiri</h1>
-<h3 align="center">A passionate Software developer From Sri Lanka</h3>
+<h3 align="center">Passionate Software developer | Tech Enthusiast
 
 
 <center>
