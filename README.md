@@ -1,5 +1,5 @@
 <h1 align="center">Avishka Shehan Jayasiri</h1>
-<h3 align="center">Passionate Software developer | Tech Enthusiast</h3>
+<h3 align="center">IT Student | Passionate Software developer | Tech Enthusiast</h3>
 
 <center>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avishkajspshehan&show_icons=true&theme=radical&locale=en" alt="avishkajspshehan" /></p>
