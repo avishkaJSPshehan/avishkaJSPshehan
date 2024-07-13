@@ -1,6 +1,6 @@
 <h1 align="center">Avishka Shehan Jayasiri</h1>
 <h3 align="center">IT Student | Passionate Software Developer | Tech Enthusiast</h3>
-
+<br/>
 <div align="center">
   <table>
     <tr>
