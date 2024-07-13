@@ -13,7 +13,7 @@
     </tr>
   </table>
 </div>
-
+<hr/>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/avishka-shehan-1794a0311/?jobid=1234" target="blank">
