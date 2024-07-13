@@ -1,4 +1,4 @@
-h1 align="center">Avishka Shehan Jayasiri</h1>
+<h1 align="center">Avishka Shehan Jayasiri</h1>
 <h3 align="center">IT Student | Passionate Software Developer | Tech Enthusiast</h3>
 
 <div align="center">
