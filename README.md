@@ -1,4 +1,4 @@
-<h1 align="center">Avishka Shehan Jayasiri</h1>
+h1 align="center">Avishka Shehan Jayasiri</h1>
 <h3 align="center">IT Student | Passionate Software Developer | Tech Enthusiast</h3>
 
 <div align="center">
@@ -21,3 +21,4 @@
   <a href="https://stackoverflow.com/users/25678278" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25678278" height="30" width="40" /></a>
 </div>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
