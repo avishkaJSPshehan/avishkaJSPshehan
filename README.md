@@ -21,3 +21,12 @@
   <a href="https://stackoverflow.com/users/25678278" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25678278" height="30" width="40" /></a>
 </div>
+
+<hr/>
+<h3 align="center">Dev Quote</h3>
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
